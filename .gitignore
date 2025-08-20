@@ -9,3 +9,14 @@ __pycache__/
 .Python
 pip-log.txt
 pip-delete-this-directory.txt
+# Secrets et tokens
+token.json
+credentials.json
+*.json
+!requirements.json
+!package.json
+
+# Variables d'environnement
+.env
+.env.local
+.env.production
