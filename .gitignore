@@ -12,7 +12,7 @@ pip-delete-this-directory.txt
 # Secrets et tokens
 token.json
 credentials.json
-*.json
+
 !requirements.json
 !package.json
 
